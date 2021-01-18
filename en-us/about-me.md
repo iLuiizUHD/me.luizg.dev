@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About-me
-permalink: /about-me/
+permalink: /en-us/about-me/
 ---
 
 ## Luiz Antônio Fernandes Gomes
