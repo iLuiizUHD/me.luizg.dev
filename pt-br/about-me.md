@@ -5,7 +5,7 @@ permalink: /pt-br/about-me/
 ---
 
 ## Luiz Antônio Fernandes Gomes
-### Desenvolvedor Web Júnio
+### Desenvolvedor Web Júnior
 Contato:
   - Endereços de E-Mail: 
       + luizgomes749@gmail.com (pessoal)
