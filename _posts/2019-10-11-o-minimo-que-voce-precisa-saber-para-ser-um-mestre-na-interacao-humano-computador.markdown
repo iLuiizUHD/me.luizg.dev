@@ -2,7 +2,7 @@
 layout: post
 title:  "O mínimo que você precisa saber para ser um mestre na interação humano-computador."
 date:   2019-10-11 11:00:00 +0300
-categories: tecnologia desenvolvimento
+categories: tecnologia
 lang: pt-br
 ---
 
