@@ -7,7 +7,7 @@ lang: pt-br
 ---
 
 ### 🤔 Interação humano-computador, que diabos é isso?
-![wtf](../public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_NJHOTtyjOJ1IcyhJ-nXzGA.jpeg)
+![wtf](/public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_NJHOTtyjOJ1IcyhJ-nXzGA.jpeg)
 
 A interação humano-computador estuda a comunicação entre um sistema ou dispositivo computacional e o ser humano e como melhorar essa comunicação para tornar a experiência do usuário a melhor experiência possível.
 
@@ -16,7 +16,7 @@ Como a **_IHC_** (Interação humano-computador) é uma matéria interdisciplina
 **_IHC_** se extende por duas abordagens diferentes, a de dentro para fora, onde o foco é na qualidade da construção do produto e nas suas características, a de fora para dentro, onde o foco fica concentrado no contexto externo ao produto. Características dos consumidores: interesses, objetivos, atividades, responsabilidades, motivações, contexto de uso, entre outros.
 
 ### 🧐 Qualidade de interação, uma breve introdução.
-![interação](../public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_Si34JIbWFXWlM2KmiVC2zw.jpeg)
+![interação](/public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_Si34JIbWFXWlM2KmiVC2zw.jpeg)
 Na qualidade de interação, introduzirei três principais termos, usabilidade, acessibilidade e comunicabilidade. Esses termos nos guiarão pelos próximos parágrafos.
 
 ---
@@ -34,17 +34,17 @@ Para Nielsen, a usabilidade é um conjunto de fatores que irão qualificar o qu�
 
 + **Facilidade de recordação**: Esforço cognitivo do usuário necessário para lembrar como interagir com a interface do sistema, conforme aprendido anteriormente.
 <div style="text-align: center">
-  <img src="../public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_TQAKc2aDSl_RHanh_nMrxw.png">
+  <img src="/public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_TQAKc2aDSl_RHanh_nMrxw.png">
 </div>
 
 + **Eficiência**: O tempo consumido para realizar as tarefas impacta na produtividade.
 <div style="text-align: center">
-  <img src="../public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_DIkybfVAWjt-h08WmEODuA.png">
+  <img src="/public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_DIkybfVAWjt-h08WmEODuA.png">
 </div>
 
 + **Segurança no uso**: Grau de proteção de um sistema contra condições desfavoráveis ou até mesmo perigosas para os usuários.
 <div style="text-align: center">
-  <img src="../public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_U63paALiWcZM6B9p_R5SFQ.png">
+  <img src="/public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_U63paALiWcZM6B9p_R5SFQ.png">
 </div>
 
 + **Satisfação do usuário**: Avaliação subjetiva que expressa o efeito do uso do sistema sobre as emoções e os sentimentos do usuário.
@@ -91,7 +91,7 @@ Nesse caso, o contexto de uso é caracterizado por todas as situações onde um 
 #### 💬 Interação!?
 <br>
 <div style="text-align: center">
-  <img src="../public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_JuqHdjEVUWWY-P8zIJuD4g.jpeg">
+  <img src="/public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_JuqHdjEVUWWY-P8zIJuD4g.jpeg">
 </div>
 
 A interação ela é basicamente uma sequência de estímulos e respostas usadas na operação de máquinas. É na interação que se há uma comunicação com as máquinas por meio de um processo através do qual o usuário formula uma intenção, planeja suas ações, atua sobre a interface (mexe nela), percebe o que sua interação resultou e interpreta a resposta do sistema e avalia se o que ele queria fazer foi realmente concluído.
@@ -109,14 +109,14 @@ A interface pode ser desde um monitor até um controle de videogame (_joystick_)
 #### 🔦 O affordance (ou reconhecimento):
 <br>
 <div style="text-align: center">
-  <img src="../public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_Wtid1bjEChoKtLseTdENdg.jpeg">
+  <img src="/public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_Wtid1bjEChoKtLseTdENdg.jpeg">
 </div>
 
 O affordance é basicamente a relação de um objeto no sistema com um objeto existente na vida real, ele facilita o entendimento do usuário à respeito de certa funcionalidade, por exemplo, antigamente era comum o uso de disquetes para salvar dados (basicamente um pendrive só que maior e com menos espaço de armazenamento [em torno de 1 à 2 MB]) tornando-se assim, o símbolo para salvar um arquivo, ou progresso em um video-game.
 
 <br>
 <div style="text-align: center">
-  <img src="../public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_i6HX_OpICd9fvV4KuDPjvw.jpeg">
+  <img src="/public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_i6HX_OpICd9fvV4KuDPjvw.jpeg">
   <p style="color: gray">Ícone de salvar progresso no video-game Grand Theft Auto: San Andreas</p>
 </div>
 
@@ -131,7 +131,7 @@ Pois bem, até agora falamos sobre, usabilidade e acessibilidade, mas falta um t
 #### 🗣️ Comunicabilidade… Comunicação?
 <br>
 <div style="text-align: center">
-  <img src="../public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_h6BclsacFtbXJm021QTQbw.gif">
+  <img src="/public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_h6BclsacFtbXJm021QTQbw.gif">
 </div>
 <br>
 
@@ -154,7 +154,7 @@ Relaciona o tempo que uma pessoa leva para algo com o tamanho do objetivo-alvo e
 #### 💡 IHC e psicologia:
 <br>
 <div style="text-align: center">
-  <img src="../public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_Z1TIcJ-kHSXdmqPXhmah8Q.gif">
+  <img src="/public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_Z1TIcJ-kHSXdmqPXhmah8Q.gif">
 </div>
 <br>
 
