@@ -6,8 +6,11 @@ categories: tecnologia
 lang: pt-br
 ---
 
-### 🤔 Interação humano-computador, que diabos é isso?
-![wtf](/public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_NJHOTtyjOJ1IcyhJ-nXzGA.jpeg)
+# 🤔 Interação humano-computador, que diabos é isso?
+<div style="text-align: center">
+  <img src="/public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_NJHOTtyjOJ1IcyhJ-nXzGA.jpeg">
+</div>
+<br>
 
 A interação humano-computador estuda a comunicação entre um sistema ou dispositivo computacional e o ser humano e como melhorar essa comunicação para tornar a experiência do usuário a melhor experiência possível.
 
@@ -15,22 +18,25 @@ Como a **_IHC_** (Interação humano-computador) é uma matéria interdisciplina
 
 **_IHC_** se extende por duas abordagens diferentes, a de dentro para fora, onde o foco é na qualidade da construção do produto e nas suas características, a de fora para dentro, onde o foco fica concentrado no contexto externo ao produto. Características dos consumidores: interesses, objetivos, atividades, responsabilidades, motivações, contexto de uso, entre outros.
 
-### 🧐 Qualidade de interação, uma breve introdução.
-![interação](/public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_Si34JIbWFXWlM2KmiVC2zw.jpeg)
+## 🧐 Qualidade de interação, uma breve introdução.
+<div style="text-align: center">
+  <img src="/public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_Si34JIbWFXWlM2KmiVC2zw.jpeg">
+</div>
+<br>
 
 Na qualidade de interação, introduzirei três principais termos, usabilidade, acessibilidade e comunicabilidade. Esses termos nos guiarão pelos próximos parágrafos.
 
 ---
 
-#### A tal da usabilidade.
+### A tal da usabilidade.
 Em resumo ela é a relação entre a facilidade de aprendizado e uso da interface, bem como a satisfação do usuário em decorrência desse uso. Ela coloca em foco a maneira como o uso de um sistema interativo no ambiente de trabalho é afetado por características específicas do usuário.
 
 Segundo a ISO 9241–11 (1998), o grau em que um produto é usado por usuários específicos para atingir objetivos específicos com **eficácia**, **eficiência** e **satisfação** em um contexto de uso específico, de maneira correta e utilizando apenas os recursos necessários.
 
-#### Usabilidade segundo Nielsen.
+### Usabilidade segundo Nielsen.
 Para Nielsen, a usabilidade é um conjunto de fatores que irão qualificar o quão bem uma pessoa pode interagir com um sistema interativo, esses critérios estão diretamente relacionados com a facilidade e o esforço necessários para os usuários aprenderem e utilizarem um sistema, dentre esses critérios temos:
 
-#### Facilidade de aprendizado:
+### Facilidade de aprendizado:
 **Tempo e esforço** necessários para o usuário **aprender** a utilizar o sistema com determinado nível de competência e desempenho.
 
 + **Facilidade de recordação**: Esforço cognitivo do usuário necessário para lembrar como interagir com a interface do sistema, conforme aprendido anteriormente.
@@ -50,7 +56,7 @@ Para Nielsen, a usabilidade é um conjunto de fatores que irão qualificar o qu�
 
 + **Satisfação do usuário**: Avaliação subjetiva que expressa o efeito do uso do sistema sobre as emoções e os sentimentos do usuário.
 
-#### Heurísticas de Nielsen:
+### Heurísticas de Nielsen:
 + Visibilidade do estado do sistema: saber em que lugar do software estamos e qual o caminho até ela;
 
 + Correspondência entre o sistema e o mundo real: ser condizente com a vida real, por exemplo, em um site de compras o ícone do carrinho de compras será o lugar em que o usuário “guardará” os itens de sua compra antes do pagamento;
@@ -71,7 +77,7 @@ Para Nielsen, a usabilidade é um conjunto de fatores que irão qualificar o qu�
 
 + Ajuda e documentação: recursos de ajuda para dar dicas ou explicar as ferramentas ao usuário;
 
-#### Acessibilidade:
+### Acessibilidade:
 O termo acessibilidade no contexto atual possui um significado bem simples:
 
 > “Acessibilidade é a remoção de barreiras que impedem mais usuários de serem capazes de acessar a interface do sistema e interagirem com ele.”
@@ -89,7 +95,7 @@ Bom, depois dessa breve introdução, vamos ao que realmente interessa, nos pró
 ### Contexto de uso:
 Nesse caso, o contexto de uso é caracterizado por todas as situações onde um usuário interage com o sistema, isso inclui quando o sistema foi utilizado, ambiente físico, social e até cultural em que ocorreu essa interação.
 
-#### 💬 Interação!?
+## 💬 Interação!?
 <div style="text-align: center">
   <img src="/public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_JuqHdjEVUWWY-P8zIJuD4g.jpeg">
 </div>
@@ -99,15 +105,15 @@ A interação ela é basicamente uma sequência de estímulos e respostas usadas
 
 Na interação, podemos considerar o sistema como processo de comunicação entre pessoas, mediada por sistemas computacionais. Ela também pode ser considerada um processo de manipulação, comunicação, conversa, troca e influência.
 
-#### Perspectivas de interação:
+### Perspectivas de interação:
 
 Temos quatro principais perspectivas de interação, a primeira é a perspectiva do sistema, onde a eficiência é priorizada ao máximo, pois é nela que ocorre a transmissão de dados, a segunda é o parceiro de discurso, nela é priorizada a adequação da interpretação e geração dos textos, simplificando, é nela que ocorre a conversa entre o usuário e o sistema, a terceira é a perspectiva de ferramenta onde a facilidade de uso e as funcionalidades relevante ao usuário são priorizadas, é nela que ocorre a manipulação do sistema como ferramenta, e por fim e não menos importante, a perspectiva de mídia, é nela que prezamos pela qualidade de comunicação e entendimento mútuo, é aqui que ocorre a comunicação entre os usuários e a pessoa que desenvolveu o sistema e até a comunicação entre os próprios usuários.
 
-#### 🖥️ A interface (não é interfeice):
+## 🖥️ A interface (não é interfeice):
 A interface é todo lugar do sistema com a qual o usuário mantém um certo contato físico (motor [mouse, toque na tela, etc.] ou perceptivo [imagens, sons, etc.]) ou conceitual durante essa interação.
 A interface pode ser desde um monitor até um controle de videogame (_joystick_), passando por, _mouse_, _teclado_, _trackpad_, _etc_.
 
-#### 🔦 O affordance (ou reconhecimento):
+## 🔦 O affordance (ou reconhecimento):
 <div style="text-align: center">
   <img src="/public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_Wtid1bjEChoKtLseTdENdg.jpeg">
 </div>
@@ -128,7 +134,7 @@ Pois bem, até agora falamos sobre, usabilidade e acessibilidade, mas falta um t
 
 ---
 
-#### 🗣️ Comunicabilidade… Comunicação?
+## 🗣️ Comunicabilidade… Comunicação?
 <br>
 <div style="text-align: center">
   <img src="/public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_h6BclsacFtbXJm021QTQbw.gif">
@@ -137,7 +143,7 @@ Pois bem, até agora falamos sobre, usabilidade e acessibilidade, mas falta um t
 
 Como eu disse anteriormente, a comunicabilidade é quando a pessoa que desenvolveu o design do sistema mostra suas intenções de design e a lógica que rege o comportamento da interface para o usuário. Acredita-se que quanto maior o entendimento por parte do usuário do design, maior será a qualidade do uso da ferramenta por parte dele.
 
-##### A lei de Hick-Hyman:
+### A lei de Hick-Hyman:
 Define o tempo médio que uma pessoa leva para decidir algo entre várias opções.
 
 A lei de Hick é baseada na fórmula:
@@ -146,39 +152,39 @@ A lei de Hick é baseada na fórmula:
 
 Onde b é um valor estipulado (por volta de 100) e n é o número de opções.
 
-##### A lei de Fitts:
+### A lei de Fitts:
 Relaciona o tempo que uma pessoa leva para algo com o tamanho do objetivo-alvo e com a distância entre a mão da pessoa e esse objeto alvo. Impacta nas disposições de menus, algo mais importante fica em um lugar de acesso mais rápido.
 
 ---
 
-#### 💡 IHC e psicologia:
+## 💡 IHC e psicologia:
 <br>
 <div style="text-align: center">
   <img src="/public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_Z1TIcJ-kHSXdmqPXhmah8Q.gif">
 </div>
 <br>
 
-#### Design:
+### Design:
 O design no contexto de IHC é a sequência de análise, síntese e avaliação, ou basicamente, situação 1 › intervenção › situação 2, isso forma um ciclo, onde estabelecida a segunda situação, novos problemas surgirão e consequentemente surge a necessidade de se estabelecer uma nova análise.
 
 A seguir, iremos abordar três aspectos importantes relacionados à design, artefato, análise de requisitos e os dados coletados;
 
-#### Artefato:
+### Artefato:
 É o objeto criado pela mente humana, para alguma função designada pelo seu criador, tendo seus pontos positivos e negativos;
 
-#### Análise de Requisitos:
+### Análise de Requisitos:
 Analisar todos os requisitos para que um projeto seja efetuado, vendo os requisitos funcionais e não funcionais.
 
-#### Dados Coletados:
+### Dados Coletados:
 Demográficos do público alvo; Facilidade com tecnologia; Conhecimento no contexto da tarefa que deve realizar utilizando o produto; Experiência com ferramentas semelhantes, etc.
 
-#### 🧠 Psicologia:
+### 🧠 Psicologia:
 Agora abordaremos as relações que IHC tem com a psicologia. Abordaremos a seguir o básico de psicologia cognitiva e psicologia gestaltica (“gestalt”).
 
-##### Psicologia cognitiva:
+### Psicologia cognitiva:
 É basicamente o estudo de como compreendemos os objetos ao nosso redor.
 
-#### Psicologia gestaltica:
+### Psicologia gestaltica:
 “Gestalt” em alemão significa forma. Estuda sobre a nossa percepção e as leis criadas a partir desses estudos.
 
 ---
