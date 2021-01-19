@@ -26,7 +26,7 @@ permalink: pretty
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: moonwalk
 plugins:
   - jekyll-feed
 
