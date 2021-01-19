@@ -90,10 +90,10 @@ Bom, depois dessa breve introdução, vamos ao que realmente interessa, nos pró
 Nesse caso, o contexto de uso é caracterizado por todas as situações onde um usuário interage com o sistema, isso inclui quando o sistema foi utilizado, ambiente físico, social e até cultural em que ocorreu essa interação.
 
 #### 💬 Interação!?
-<br>
 <div style="text-align: center">
   <img src="/public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_JuqHdjEVUWWY-P8zIJuD4g.jpeg">
 </div>
+<br>
 
 A interação ela é basicamente uma sequência de estímulos e respostas usadas na operação de máquinas. É na interação que se há uma comunicação com as máquinas por meio de um processo através do qual o usuário formula uma intenção, planeja suas ações, atua sobre a interface (mexe nela), percebe o que sua interação resultou e interpreta a resposta do sistema e avalia se o que ele queria fazer foi realmente concluído.
 
@@ -108,14 +108,13 @@ A interface é todo lugar do sistema com a qual o usuário mantém um certo cont
 A interface pode ser desde um monitor até um controle de videogame (_joystick_), passando por, _mouse_, _teclado_, _trackpad_, _etc_.
 
 #### 🔦 O affordance (ou reconhecimento):
-<br>
 <div style="text-align: center">
   <img src="/public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_Wtid1bjEChoKtLseTdENdg.jpeg">
 </div>
+<br>
 
 O affordance é basicamente a relação de um objeto no sistema com um objeto existente na vida real, ele facilita o entendimento do usuário à respeito de certa funcionalidade, por exemplo, antigamente era comum o uso de disquetes para salvar dados (basicamente um pendrive só que maior e com menos espaço de armazenamento [em torno de 1 à 2 MB]) tornando-se assim, o símbolo para salvar um arquivo, ou progresso em um video-game.
 
-<br>
 <div style="text-align: center">
   <img src="/public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_i6HX_OpICd9fvV4KuDPjvw.jpeg">
   <p style="color: gray">Ícone de salvar progresso no video-game Grand Theft Auto: San Andreas</p>
