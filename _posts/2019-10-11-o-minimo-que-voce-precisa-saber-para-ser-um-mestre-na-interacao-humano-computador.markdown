@@ -17,6 +17,7 @@ Como a **_IHC_** (Interação humano-computador) é uma matéria interdisciplina
 
 ### 🧐 Qualidade de interação, uma breve introdução.
 ![interação](/public/2019-10-11-o-minimo-que-voce-precisa-saber-para-ser-um-mestre-na-interacao-humano-computador/1_Si34JIbWFXWlM2KmiVC2zw.jpeg)
+
 Na qualidade de interação, introduzirei três principais termos, usabilidade, acessibilidade e comunicabilidade. Esses termos nos guiarão pelos próximos parágrafos.
 
 ---
